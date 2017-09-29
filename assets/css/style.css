@@ -1,0 +1,42 @@
+body {
+	background-image: url(http://jerzeespub.com/wp-content/uploads/2013/04/about-background.png);
+}
+
+h1 {
+	text-align: center;
+	color: springgreen;
+	font-weight: bold;
+}
+
+h2 {
+	color: #E6FF00;
+	margin-top: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#start_game {
+	margin-top: 200px;
+}
+
+#trivia_button {
+	padding: 15px 60px 15px;
+    margin-left: 685px;
+}
+
+#done {
+	padding: 15px 60px 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#mid_game {
+	color: #E6FF00;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+#end_game {
+	margin-top: 200px;
+}
